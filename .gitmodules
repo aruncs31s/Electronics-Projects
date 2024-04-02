@@ -1,3 +1,6 @@
 [submodule "Mini Project/Iot_based_smart_energy_managment_system"]
 	path = Mini Project/Iot_based_smart_energy_managment_system
 	url = https://github.com/aruncs31s/Iot_based_smart_energy_managment_system
+[submodule "Mini Projects/Iot_based_smart_energy_managment_system"]
+	path = Mini Projects/Iot_based_smart_energy_managment_system
+	url = https://github.com/aruncs31s/Iot_based_smart_energy_managment_system
